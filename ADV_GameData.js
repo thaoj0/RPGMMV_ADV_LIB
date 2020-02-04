@@ -2,8 +2,10 @@
 /**-----------------------------------------------------------
     GameVariable Values
     By Adventurer_inc
-     * Game Data is saved in $gameVariables
-     * When the game loads data loads and when game saves data saves
+    Game Data is saved in $gameVariables. This uses the engine's 
+    default system of always saving and storing in-game variables.
+    This means custom data will be saved within the game save files.
+    When the game loads data loads and when game saves data saves.
     
      * @help
      * How to create:
